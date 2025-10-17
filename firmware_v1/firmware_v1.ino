@@ -22,8 +22,8 @@ void advancePaper(int lines);
 void printWrappedUpsideDown(String text);
 
 // === WiFi Configuration ===
-const char* ssid = "Your WIFI name";
-const char* password = "Your WIFI password";
+const char* ssid = "CellSignalling";
+const char* password = "PieterPostverdientdekost";
 
 // === Time Configuration ===
 const long utcOffsetInSeconds = 0; // UTC offset in seconds (0 for UTC, 3600 for UTC+1, etc.)
